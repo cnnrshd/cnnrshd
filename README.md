@@ -1,24 +1,34 @@
 # cnnrshd
 
-Cyber Security with a focus on **Development** and **Automation**.
+Cyber Security with a focus on **Development** and **Automation**. Check out [my blog](https://connorshade.com), which is [hosted on GitHub](https://github.com/cnnrshd/cnnrshd.github.io).
+
+I am **Looking for new opportunities**! [LinkedIn](https://www.linkedin.com/in/connor-shade-5688bab9/) is the best place to reach me.
 
 ## Currently Working On
 
-Personal projects, mostly.
+Personal projects, mostly. **Feel free to reach out if there's something you think I could help with**.
 
-- Getting my blog up (Hugo - possibly)
-- A fun project that combines a vulnerable service, nmap match directives, and a metasploit module, all written by me. Once I get the blog up repos and posts will follow
-  - Made a webapp vulnerable to command injection (finishing writing)
-  - Webapp reports a banner - custom nmap `match` directive to detect it (finishing writing)
+- A fun project that combines a vulnerable service, nmap match directives, and a metasploit module, all written by me. Once I get the blog up repos and posts will follow - [project page](https://connorshade.com/service-to-shell/)
+  - [Made a webapp vulnerable to command injection](https://connorshade.com/service-to-shell/vulnerable-webapp/)
+  - Webapp reports a banner - custom nmap `match` directive to detect it (editing)
   - Metasploit module that exploits the command injection, returning a shell (in progress)
+- Getting a blog set up on Hugo, [deployed through Github Pages](https://github.com/cnnrshd/cnnrshd.github.io)
 
 ## Things I do/Have done
 
 - Training (Networking, Sys Admin, Security)
 - Program (Python, getting into Go)
 - Offensive Security
-- Competitive Blue Teaming (CCDC)
+- Competition Black Team (ISTS, IRSec)
+- Competitive Blue Teaming (CCDC, ISTS, IRSec)
 - Competitive Networking (FBLA)
+
+### Skills, of varying quality
+
+- **Programming** - Python, PowerShell, Javascript
+- **Automation** - Ansible, Docker, Packer, Vagrant
+- **Security** - Incident response, threat hunting
+
 
 ## Previously Worked On
 
