@@ -8,11 +8,11 @@ I am **Looking for new opportunities**! [LinkedIn](https://www.linkedin.com/in/c
 
 Personal projects, mostly. **Feel free to reach out if there's something you think I could help with**.
 
-- A fun project that combines a vulnerable service, nmap match directives, and a metasploit module, all written by me. Once I get the blog up repos and posts will follow - [project page](https://connorshade.com/service-to-shell/)
+- [Service-To-Shell](https://connorshade.com/service-to-shell/) - A project that combines a vulnerable service, nmap probes, and a metasploit module, all written by me.
   - [Made a webapp vulnerable to command injection](https://connorshade.com/service-to-shell/vulnerable-webapp/)
-  - Webapp reports a banner - custom nmap `match` directive to detect it (editing)
-  - Metasploit module that exploits the command injection, returning a shell (in progress)
-- Getting a blog set up on Hugo, [deployed through Github Pages](https://github.com/cnnrshd/cnnrshd.github.io)
+  - A [custom nmap probe](https://connorshade.com/service-to-shell/writing-nmap-scan/) to detect the webapp
+  - A [custom Metasploit Module](https://connorshade.com/service-to-shell/custom-metasploit/) that automatically exploits the service
+- **Getting a blog set up** (*Done*) - [Set up a blog](https://connorshade.com), deployed automatically with [Github Actions](https://github.com/cnnrshd/cnnrshd.github.io)
 
 ## Things I do/Have done
 
@@ -28,7 +28,6 @@ Personal projects, mostly. **Feel free to reach out if there's something you thi
 - **Programming** - Python, PowerShell, Javascript
 - **Automation** - Ansible, Docker, Packer, Vagrant
 - **Security** - Incident response, threat hunting
-
 
 ## Previously Worked On
 
