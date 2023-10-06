@@ -2,8 +2,6 @@
 
 Cyber Security with a focus on **Development** and **Automation**. Check out [my blog](https://connorshade.com), which is [hosted on GitHub](https://github.com/cnnrshd/cnnrshd.github.io).
 
-I am **Looking for new opportunities**! [LinkedIn](https://www.linkedin.com/in/connor-shade-5688bab9/) is the best place to reach me.
-
 ## Currently Working On
 
 Personal projects, mostly. **Feel free to reach out if there's something you think I could help with**.
